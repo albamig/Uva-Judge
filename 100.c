@@ -1,3 +1,5 @@
+/* Alberto Amigo Alonso */
+
 #include <stdio.h>
 
 unsigned long cicle_len(int);
